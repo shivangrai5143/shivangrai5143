@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivang Rai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Developer & Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangrai5143&label=Profile%20views&color=0e75b6&style=flat" alt="shivangrai5143" /> </p>
 
@@ -7,7 +7,9 @@
 
 - 🔭 May previously worked at Codsoft Virtual Internship [PYTHON PROGRAMMING](https://github.com/shivangrai5143/CODSOFT)
 
-- 🌱 I’m currently learning **frameworks, courses**
+- 🌱 I’m currently learning **react.js || Django || node.js**
+
+- 💬 Ask me about **Web development|| Python**
 
 - 📫 How to reach me **raishivang69@gmail.com**
 
@@ -16,6 +18,7 @@
 <a href="https://twitter.com/raishivang_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raishivang_69" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivang-rai-58b45728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivang-rai-58b45728b" height="30" width="40" /></a>
 <a href="https://instagram.com/_shivang11.04_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shivang11.04_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/raishivang69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raishivang69" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
