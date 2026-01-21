@@ -1,7 +1,7 @@
 # 💫 About Me:
 💫 About Me:<br>👋 Hi there, I'm Shivang Rai<br><br>
 I'm a passionate full-stack developer focused on building modern, scalable web applications. I enjoy working with the MERN stack (MongoDB, Express.js, React, Node.js) and am always exploring new tools and technologies to improve my workflow and code quality.<br>🚀 Current  Woking Project<br>Right now, I'm working on a Coffee Shop Application built using the MERN stack. The app includes features like:<br>- ☕ Interactive menu with filtering and search<br>- 🛒 Shopping cart with real-time updates<br>- 🔐 User authentication and role-based access<br>- 📊 Admin dashboard for order and inventory management<br><br>Stay tuned as I continue to develop and polish this project — I’ll be sharing updates and code as soon as possible!-<br>Fun Fact: My first "hello world" program was a simple web page with a single button. Clicking it changed the background color, and I was absolutely mesmerized. That moment sparked my journey into web development...<br>
-
+j hbkjnlm;l,
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/@_shivang11.04_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivang-rai-58b45728b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/@rshivang680/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/raishivang_69) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raishivang69@gmail.com) 
