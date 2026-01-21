@@ -1,7 +1,7 @@
 # 💫 About Me:
 💫 About Me:<br>👋 Hi there, I'm Shivang Rai<br><br>
 I'm a passionate full-stack developer focused on building modern, scalable web applications. I enjoy working with the MERN stack (MongoDB, Express.js, React, Node.js) and am always exploring new tools and technologies to improve my workflow and code quality.<br>🚀 Current  Woking Project
-And now I'm working on a Real Time chat-application built using the MERN stack
+is on a Real Time chat-application built using the MERN stack
 Right now i have just completed a Coffee Shop web application using the MERN stack with user authentication, interactive menu search/filtering, real-time shopping cart, and an admin dashboard for order and inventory management.
 
 
