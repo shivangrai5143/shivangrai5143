@@ -7,7 +7,7 @@ I'm a passionate full-stack developer focused on building modern, scalable web a
 is on a Real Time chat-application built using the MERN stack
 Right now i have just completed a Coffee Shop web application using the MERN stack with user authentication, interactive menu search/filtering, real-time shopping cart, and an admin dashboard for order and inventory management.
 
-
+<img src="k.svg" alt = "image">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/@_shivang11.04_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivang-rai-58b45728b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/@rshivang680/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/raishivang_69) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raishivang69@gmail.com) 
