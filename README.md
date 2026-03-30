@@ -20,6 +20,11 @@ Right now i have just completed a Coffee Shop web application using the MERN sta
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangrai5143&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+<a href="https://github.com/AnujYadav-Dev/">
+  <img src="game.gif" alt="Space Shooter" width="100%">
+</a>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivangrai5143&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
