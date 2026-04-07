@@ -1,4 +1,4 @@
-# 💫 About Me:bg
+# 💫 About Me:
 💫 About Me:<br>👋 Hi there, I'm Shivang Rai<br><br>
 I'm a passionate full-stack developer focused on building modern, scalable web applications. I enjoy working with the MERN stack (MongoDB, Express.js, React, Node.js) and am always exploring new tools and technologies to improve my workflow and code quality.
 🌱 Currently deepening knowledge in backend architecture & scalable web applications
