@@ -14,13 +14,12 @@ I'm a passionate Full-Stack Developer focused on building modern, scalable, and 
 📈 Current Focus : 
 
 Backend optimization & scalability
-System design fundamentals
-Real-time applications
-Clean architecture & best practices
 
-🤝 Let's Connect :
-💼 Open to collaboration on real-world projects
-📫 Reach me for development discussions, ideas, or opportunities
+System design fundamentals
+
+Real-time applications
+
+Clean architecture & best practices
 
 ⭐ Always learning. Always building.
 
