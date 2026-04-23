@@ -1,19 +1,24 @@
 # 💫 About Me:
 💫 About Me:<br>👋 Hi there, I'm Shivang Rai<br><br>
+
 I'm a passionate Full-Stack Developer focused on building modern, scalable, and high-performance web applications. I enjoy turning complex problems into simple, efficient, and user-friendly solutions.
 
 💻 Skilled in MERN Stack (MongoDB, Express.js, React, Node.js)
 
 🌱 Currently deepening my knowledge in Backend Architecture & Scalable Systems
+
 🚀 Actively building projects to strengthen real-world development & problem-solving skills
+
 ⚡ Always exploring new technologies to improve workflow and code quality
 
-📈 Current Focus
+📈 Current Focus : 
+
 Backend optimization & scalability
 System design fundamentals
 Real-time applications
 Clean architecture & best practices
-🤝 Let's Connect
+
+🤝 Let's Connect :
 💼 Open to collaboration on real-world projects
 📫 Reach me for development discussions, ideas, or opportunities
 
