@@ -2,13 +2,12 @@
 <h3 align="center">Aspiring Software Developer | Full Stack | Data Enthusiast</h3>
 
 ---
-
 ## 🚀 About Me
-- 💻 Passionate about building **full-stack applications**
-- 📊 Interested in **Data Analysis & AI**
-- ⚡ Currently improving **DSA + System Design**
-- 🎯 Goal: Crack top tech interviews & build impactful products
-
+- 💻 Full-Stack Developer specializing in the **MERN stack & scalable backend systems**
+- ⚡ Building **real-time applications** with focus on performance, security, and clean architecture  
+- 📊 Strong interest in **Data Analysis & AI-driven solutions**  
+- 🌱 Currently learning **System Design & Backend Optimization**  
+- 🎯 Goal: Build production-level applications and crack top tech roles
 ---
 
 ## 🛠️ Tech Stack
