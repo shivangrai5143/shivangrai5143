@@ -91,8 +91,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shivangrai5143&show_icons=true&theme=radical"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangrai5143&theme=radical"/>
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangrai5143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangrai5143&layout=compact&theme=tokyonight&hide_border=true" />
 ---
 
 ## 🔗 Connect With Me
