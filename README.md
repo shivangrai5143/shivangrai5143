@@ -96,7 +96,7 @@
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/shivang-rai11/]
+- 💼 LinkedIn: https://www.linkedin.com/in/shivang-rai11/
 - 📧 Email: \raishivang69@gmail.com
 
 ---
