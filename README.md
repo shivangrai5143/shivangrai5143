@@ -1,4 +1,4 @@
-ouads<h1 align="center">Hi 👋, I'm Shivang Rai</h1>
+<h1 align="center">Hi 👋, I'm Shivang Rai</h1>
 <h3 align="center">Aspiring Software Developer | Full Stack | Data Enthusiast</h3>
 
 ---
