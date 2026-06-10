@@ -9,6 +9,10 @@
 
 ---
 
+<img src="k.svg" alt = "image">
+
+---
+
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer building scalable web applications and backend systems
