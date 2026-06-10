@@ -83,12 +83,6 @@ Expected Graduation: May 2027
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangrai5143&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivangrai5143&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/shivang-rai11/
