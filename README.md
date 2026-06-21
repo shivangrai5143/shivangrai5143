@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Mem
 
 - 💻 Full-Stack Developer building scalable web applications and backend systems
 - 🤖 Exploring AI Automation, Agentic Workflows, and LLM-powered applications
