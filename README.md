@@ -15,15 +15,24 @@
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer building scalable web applications and backend systems
-- 🤖 Exploring AI Automation, Agentic Workflows, and LLM-powered applications
-- 📊 Built data analytics platforms for traffic intelligence and decision-making
-- ☁️ Passionate about Cloud Computing, AWS, Docker, and DevOps practices
-- ⚡ Experienced with React, Node.js, FastAPI, Firebase, PostgreSQL, and MongoDB
-- 🌱 Currently learning System Design, Kubernetes, CI/CD, and Backend Optimization
-- 🎯 Goal: Build production-grade software and become a top Software Engineer
+I'm a Full-Stack Developer passionate about designing and building scalable, user-centric applications. I enjoy transforming complex problems into efficient software solutions and continuously exploring emerging technologies in AI, cloud computing, and distributed systems.
 
----
+### What I Do
+- 💻 Develop modern web applications using React, Node.js, and FastAPI
+- 🤖 Build AI-powered tools, automation workflows, and intelligent systems
+- 📊 Create data-driven platforms for analytics and decision support
+- ☁️ Deploy and manage applications using AWS, Docker, and cloud technologies
+- 🔧 Design secure, scalable backend architectures and APIs
+
+### Currently Exploring
+- 🌱 System Design & Software Architecture
+- ☸️ Kubernetes & Container Orchestration
+- 🔄 CI/CD & DevOps Automation
+- ⚡ Backend Performance Optimization
+- 🧠 Large Language Models (LLMs) & Agentic AI
+
+### Career Goal
+🎯 To build impactful, production-grade software and grow into a world-class Software Engineer.
 
 ## 🏆 Featured Projects
 
