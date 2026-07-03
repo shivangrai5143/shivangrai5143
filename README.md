@@ -65,7 +65,6 @@ Expected Graduation: May 2027
 ## 🏅 Achievements
 
 - 🚀 Built and deployed multiple full-stack applications used in production environments
-- 📈 Solved 300+ DSA problems across coding platforms
 - 🔥 Experience working with Agile workflows, Git, GitHub, and CI/CD pipelines
 - 🤝 Open Source Contributor and Collaborative Developer
 
