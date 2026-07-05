@@ -58,7 +58,7 @@ Realtime messaging platform with Firebase, WebRTC, Voice/Video Calling, Presence
 **B.Tech – Computer Science & Information Technology**
 Specialization in **Cloud Computing & Machine Learning**
 Babu Banarasi Das University
-Expected Graduation: May 2027
+Expected Graduation: June 2027
 
 ---
 
