@@ -36,17 +36,23 @@ I'm a Full-Stack Developer passionate about designing and building scalable, use
 
 ## 🏆 Featured Projects
 
-### 🚦 Traffic Intelligence System
+###  Aptico
+ Career intelligence for smarter job searching, resume analysis, and application momentum.
+Aptico helps job seekers turn a messy job search into a structured workflow: analyze resumes, discover better-fit roles, save jobs, track applications and rejections, join anonymous accountability squads, and build a recruiter-friendly proof profile.
+
+https://aptico-dev.vercel.app/
+
+###  Traffic Intelligence System
 Full-stack analytics platform for analyzing road accident and transport datasets using React, FastAPI, Pandas, and data visualization.
 
 🔗 Live: https://intelligent-traffic.vercel.app/
 
-### 📋 Yojna-Flow
+###  Yojna-Flow
 Enterprise-grade Project Management System with RBAC, Kanban Boards, Sprint Planning, Analytics Dashboard, and Team Collaboration.
 
 🔗 Live: https://yojnaflow.vercel.app/
 
-### 💬 Real-Time Chat Application
+###  Real-Time Chat Application
 Realtime messaging platform with Firebase, WebRTC, Voice/Video Calling, Presence Tracking, and End-to-End Encryption.
 
 🔗 Live: https://chat-app-brown-zeta-84.vercel.app/
