@@ -52,7 +52,7 @@ Enterprise-grade Project Management System with RBAC, Kanban Boards, Sprint Plan
 
 🔗 Live: https://yojnaflow.vercel.app/
 
-###  Real-Time Chat Application
+###  Connectify
 Realtime messaging platform with Firebase, WebRTC, Voice/Video Calling, Presence Tracking, and End-to-End Encryption.
 
 🔗 Live: https://chat-app-brown-zeta-84.vercel.app/
